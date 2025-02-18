@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Panda\\OneDrive\\Desktop\\UIVersion\\OpenAIAPI\\Source\\OpenAIAPI\\OpenAIAPI.Build.cs",
+		"C:\\Users\\Panda\\OneDrive\\Desktop\\UIVersion\\OpenAIAPI\\Plugins\\ChatGPTPlugin\\Source\\ChatGPTPlugin\\ChatGPTPlugin.Build.cs",
+		"C:\\Users\\Panda\\OneDrive\\Desktop\\UIVersion\\OpenAIAPI\\Source\\OpenAIAPI.Target.cs",
+		"C:\\Users\\Panda\\OneDrive\\Desktop\\UIVersion\\OpenAIAPI\\Source\\OpenAIAPIEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
